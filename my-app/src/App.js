@@ -8,14 +8,40 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">A semi functional website
+        </h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+       
+      here is where semi useful stuff can go
+       
         </p>
+        <p className="App-paragraph">
+        its free real estate
+        </p>
+        <p className="App-paragraph2">
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+        </p>
+        <p className="App-paragraph2">
+█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+        </p>
+        <p className="App-paragraph2">
+█░░║║║╠─║─║─║║║║║╠─░░█
+        </p>
+        <p className="App-paragraph2">
+█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+        </p>
+        <p className="App-paragraph2">
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+        </p>
+
+    
       </div>
-    );
+    )
   }
 }
 
 export default App;
+
+
+
