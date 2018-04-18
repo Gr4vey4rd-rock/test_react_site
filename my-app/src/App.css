@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 0.000003s linear;
   height: 80px;
 }
 
@@ -81,7 +81,7 @@ body {
   animation-iteration-count: infinite;
 }
 
-.App-intro{
+.App-intro {
   color: goldenrod
 }
 .App-paragraph2 {
@@ -95,4 +95,22 @@ body {
 
 .App-title {
   color: goldenrod
+}
+
+.Variable {
+  color:rgb(0, 0, 0);
+  text-align: start;;
+}
+.house {
+ color: goldenrod;;
+}
+.house {
+  margin: 0ex;;
+}
+.Real-deep-stuff {
+  color: goldenrod
+}
+
+.unicorn {
+  text-align: left
 }
